@@ -8,9 +8,14 @@ body {
     position: fixed;
     width:100%;
   }
+
+  li #logo{
+    background-image: url("Assets/Carbon0Logo.png");
+  }
+
   .container{
     position:fixed;
-    background-image: url("carbon0.png");
+    background-image: url("Assets/carbon0.png");
     background-color: #cccccc;
     height: 500px;
     background-position: center;
