@@ -20,3 +20,8 @@ Science Hack Day
 7- Viewing on local host
 
 8- Deploying on Heroku
+
+## Author
+
+ Senay Yakut
+
