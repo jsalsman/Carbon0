@@ -1,9 +1,15 @@
 # Carbon0
 Science Hack Day
 
-* This Project in progress, any contribution is WELCOME!
+* This Project is in progress, any contribution is WELCOME!
 
-## The steps to create a website include:
+## Tech Stack
+
+* React & React Router 4
+
+* Node & Express
+
+## The steps creating this website include:
 
 1- File architecture
 
