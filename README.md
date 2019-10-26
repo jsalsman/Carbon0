@@ -3,7 +3,7 @@ Science Hack Day
 
 * This Project in progress, any contribution is WELCOME!
 
-## The steps to create a website include:
+## The steps creating this website include:
 
 1- File architecture
 
