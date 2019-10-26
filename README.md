@@ -3,6 +3,12 @@ Science Hack Day
 
 * This Project is in progress, any contribution is WELCOME!
 
+## Tech Stack
+
+* React & React Router 4
+
+* Node & Express
+
 ## The steps creating this website include:
 
 1- File architecture
